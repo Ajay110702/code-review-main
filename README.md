@@ -49,7 +49,8 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Screenshot](./assets/screenshot.png)
+![Screenshot (37)](https://github.com/user-attachments/assets/fd9be232-bb0e-42a5-b5e7-269ed5a8d71e)
+
 
 ## License
 
