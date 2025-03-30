@@ -53,13 +53,7 @@ To run this project, you will need to add the following environment variables to
 ![Screenshot (37)](https://github.com/user-attachments/assets/8cda772c-6bb2-4abd-adbf-c61931983062)
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, visit my [Github](https://github.com/c0d1ngthunder) or [LinkedIn](https://www.linkedin.com/in/nitish-thedev/)
 
 ## Acknowledgements
 
@@ -69,20 +63,8 @@ For support, visit my [Github](https://github.com/c0d1ngthunder) or [LinkedIn](h
 - [Highlight.js](https://highlightjs.org/)
 - [React Markdown](https://remarkjs.github.io/react-markdown/)
 
-## Feedback
 
-If you have any feedback or suggestions, please reach out to me through:
-- Creating an issue on [GitHub](https://github.com/c0d1ngthunder/code-reviewer/issues)
-- Connecting with me on [LinkedIn](https://www.linkedin.com/in/nitish-thedev/)
 
----
-
-<div align="center">
-  Made with ❤️ by Nitish Kumar
-
-  <br/>
 
   
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c0d1ngthunder)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0D76E3)](https://linkedin.com/in/nitish-thedev/)
-</div>
+  </div>
